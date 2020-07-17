@@ -44,3 +44,6 @@
 
 // Task 4
 
+function marks(s1,s2,s3){
+    
+}
